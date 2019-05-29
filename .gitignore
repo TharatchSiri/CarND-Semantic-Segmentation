@@ -101,3 +101,10 @@ ENV/
 .mypy_cache/
 
 RUNS/
+
+# pycharm
+*.idea/
+
+# saved files from training and testing session
+model/
+runs/
